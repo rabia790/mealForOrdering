@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercise13</string>
+    <string-array name="foods">
+        <item>Banana</item>
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>IceCream</item>
+        <item>shake</item>
+        <item>Maggi</item>
+        <item>Pasta</item>
+        <item>Noodles</item>
+    </string-array>
+</resources>
