@@ -95,6 +95,7 @@
         android:text="Confirm your Order!"/>
 
     <Button
+        android:id="@+id/order"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Order"
